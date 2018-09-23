@@ -1,0 +1,14 @@
+23 сен 2018 21:11:20 INFO  Main:11 -Запуск программы
+23 сен 2018 21:11:20 INFO  OccurenciesResource:19 -Программа начала работу
+23 сен 2018 21:11:20 INFO  OccurenciesResource:52 -Произведена очистка файла
+23 сен 2018 21:11:20 INFO  SearchResorce:26 -Поток pool-1-thread-1 запущен
+23 сен 2018 21:11:20 INFO  SearchResorce:26 -Поток pool-1-thread-3 запущен
+23 сен 2018 21:11:20 INFO  SearchResorce:26 -Поток pool-1-thread-2 запущен
+23 сен 2018 21:11:20 INFO  SearchResorce:34 -Программа выполняется поиск слов в ресурсе: http://tululu.org/txt.php?id=14407
+23 сен 2018 21:11:20 INFO  SearchResorce:26 -Поток pool-1-thread-5 запущен
+23 сен 2018 21:11:20 INFO  SearchResorce:34 -Программа выполняется поиск слов в ресурсе: http://tululu.org/txt.php?id=19122
+23 сен 2018 21:11:20 INFO  SearchResorce:26 -Поток pool-1-thread-4 запущен
+23 сен 2018 21:11:20 INFO  SearchResorce:34 -Программа выполняется поиск слов в ресурсе: http://tululu.org/txt.php?id=6
+23 сен 2018 21:11:20 INFO  SearchResorce:34 -Программа выполняется поиск слов в ресурсе: http://tululu.org/txt.php?id=46172
+23 сен 2018 21:11:20 INFO  SearchResorce:34 -Программа выполняется поиск слов в ресурсе: http://tululu.org/txt.php?id=18934
+23 сен 2018 21:11:22 INFO  OccurenciesResource:39 -Программа завершила работу: 1 секунд
